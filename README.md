@@ -1,6 +1,6 @@
 # Lista de Tareas App 
-[Link de Proyecto](https://tobsad.github.io/vite-react-tailwind-tasks/).
-Esta es una aplicación web de lista de tareas hecha con Vite, React y Tailwind. Permite al usuario agregar tareas y eliminarlas. 
+
+Esta es una aplicación web de lista de tareas hecha con Vite, React y Tailwind. Permite al usuario agregar tareas y eliminarlas. Para ver el proyecto haz clic en [Link del Proyecto](https://tobsad.github.io/vite-react-tailwind-tasks/).
 
 ## Características
 
