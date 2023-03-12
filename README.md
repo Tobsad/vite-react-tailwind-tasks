@@ -1,6 +1,6 @@
 # Lista de Tareas App
 
-Esta es una aplicación web de lista de tareas hecha con Vite, React y Tailwind. Permite al usuario agregar tareas, marcarlas como completadas y eliminarlas. 
+Esta es una aplicación web de lista de tareas hecha con Vite, React y Tailwind. Permite al usuario agregar tareas y eliminarlas. 
 
 ## Características
 
@@ -23,13 +23,13 @@ Esta es una aplicación web de lista de tareas hecha con Vite, React y Tailwind.
 - [React](https://reactjs.org/) como biblioteca de UI.
 - [Tailwind CSS](https://tailwindcss.com/) como herramienta de estilo.
 
-## Contribuir
+## Mejoras a futuro:
 
-Si deseas contribuir a la aplicación, puedes hacerlo abriendo un pull request. Asegúrate de seguir las siguientes pautas:
+Algunas de las mejoras que deseo añadir son:
 
-1. Crea una nueva rama para tu contribución.
-2. Escribe pruebas para cualquier nueva funcionalidad que agregues.
-3. Ejecuta `npm run lint` antes de abrir el pull request para asegurarte de que tu código siga las convenciones de estilo del proyecto.
+1. Guardar las tareas que ingreso si cierra la ventana (como un historial algo asi).
+2. Personalizar o que las cartas tengas colores aleatorios (colores por importancia de tareas).
+3. Agregarle la fecha de creacion a la tarea (o modificacion). 
 
 ## Licencia
 
