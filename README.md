@@ -40,7 +40,7 @@ Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo
 <table>
   <tr>
     <td><p>Captura web</p>
-    <img height='320px' src="/screenshot.png.png">
+    <img height='320px' src="/screenshot.png">
     </td>
     <td><p>Captura móvil</p>
     <img height='320px' src="/mb_screenshot.png">
