@@ -15,7 +15,7 @@ Esta es una aplicación web de lista de tareas hecha con Vite, React y Tailwind.
 1. Clona el repositorio en tu computadora.
 2. Instala las dependencias con `npm install`.
 3. Ejecuta el comando `npm run dev` para iniciar la aplicación en modo de desarrollo.
-4. Abre http://localhost:3000 en tu navegador.
+4. Abre http://localhost:3000 o el que aparezca en tu terminal en el navegador.
 
 ## Tecnologías utilizadas
 
