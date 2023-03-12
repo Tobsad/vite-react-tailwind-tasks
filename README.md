@@ -2,9 +2,6 @@
 
 Esta es una aplicación web de lista de tareas hecha con Vite, React y Tailwind. Permite al usuario agregar tareas, marcarlas como completadas y eliminarlas. 
 
-![Screenshot of the Todo List App](screenshot.png)
-![Screenshot of the Todo List App](mb_screenshot.png)
-
 ## Características
 
 - Agregar tareas con un campo de texto y un botón "Agregar".
@@ -37,3 +34,16 @@ Si deseas contribuir a la aplicación, puedes hacerlo abriendo un pull request. 
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo [LICENSE](LICENSE).
+
+## Capturas: 
+
+<table>
+  <tr>
+    <td><p>Captura web</p>
+    <img height='320px' src="/screenshot.png.png">
+    </td>
+    <td><p>Captura móvil</p>
+    <img height='320px' src="/mb_screenshot.png">
+    </td>
+  </tr>
+</table>
